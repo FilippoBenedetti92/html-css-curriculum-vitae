@@ -1,0 +1,34 @@
+#Fotoprofilo {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+#layout {
+    text-align: center;
+    background-color: #c7c5c180;
+    border-bottom: 2px outset rgba(212,151,32,255);
+}
+
+
+#centro {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    }
+
+h2 {
+    color: DarkGoldenRod;
+}
+
+h3 {
+     font-style: italic;
+}
+
+p {
+    resize: 900px
+}
+
+#final {
+    text-align: center;
+}
